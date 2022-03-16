@@ -2,7 +2,8 @@
 This is a tool made with python for help people to Connect mobile phone and computer through File Transfer Protocol (FTP) and share files and folders.
 
 # Instalation 
-* just download this ftp_manager.exe file in your pc
+* just download this ftp_manager.exe file in your pc 
+* exe file - https://drive.google.com/file/d/1ReTrj18JmyaobvF5mSqLds-Oh5akdP3E/view?usp=sharing
 # procedure
 * connect your phone hotspot to your pc
 * download any ftp file transfering app in your phone change port to 2221 and start, my suggestion app - FTP Tool,WiFi FTp Server etc.
