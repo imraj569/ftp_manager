@@ -1,52 +1,39 @@
-import PySimpleGUI as sg
+#this is the source file you can modify anything you want
 import os
 from keyboard import press_and_release
 from time import sleep
 from pyautogui import write
+import colorama
+from colorama import Fore
+colorama.init(autoreset=True)
 import sys
 
-sg.theme('Dark Blue')
 
-layout =[
-    [sg.Text('Just copy and past the default getway IP')],
-    [sg.Text('Default Getway Ip:',size=(15,1)),sg.InputText(key='Ip')],
-    [sg.Text('                                                              ')],
-    [sg.Submit(),  sg.Button('Clear'),  sg.Exit(), sg.Button('Get IP'),  sg.Button('past')]
-]
-
-win = sg.Window('FTP manager', layout)
-
-def clear_input():
-    for key in values:
-        win[key]('')
-    return None
-
-def Gatway():
-    x = (values)
-    address =(x['Ip'])
-    os.system('taskkill /f /im cmd.exe')
-    sleep(0.10)
-    press_and_release('win+e')
-    sleep(1)
-    press_and_release('alt+d')
-    sleep(0.10)
-    write(f'ftp://{address}:2221/')
-    sleep(0.10)
-    press_and_release('enter')
-    sys.exit
-
-while True:
-    event, values = win.read()
-    if event == sg.WIN_CLOSED or event == 'Exit':
-        os.system('taskkill /f /im cmd.exe')
-        break
-    if event == 'Clear':
-        clear_input()
-    if event == 'Submit':
-        Gatway()
-    if event == 'Get IP':
-        os.system("start cmd /k ipconfig")
-    if event == 'past':
-        press_and_release('ctrl+v')
-                                                                      
-win.close()
+print(Fore.CYAN+'''
+╭━━━┳━━━━┳━━━╮
+┃╭━━┫╭╮╭╮┃╭━╮┃
+┃╰━━╋╯┃┃╰┫╰━╯┃
+┃╭━━╯╱┃┃╱┃╭━━╯
+┃┃╱╱╱╱┃┃╱┃┃
+╰╯╱╱╱╱╰╯╱╰╯         
+                MANAGER V-0.1
+------------------------------------------             
+                github - https://github.com/imraj569/ftpmanager
+                instagram - @im.raj.569
+------------------------------------------''')
+print(Fore.RED+'''make sure your ftp server port is 2221
+------------------------------------------''')
+os.system("start cmd /k ipconfig")
+add = input(Fore.BLUE+'Just copy and past default getway address here and press Enter: ')
+print(Fore.LIGHTYELLOW_EX+'please wait opening FTP server')
+os.system('taskkill /f /im cmd.exe')
+sleep(0.10)
+press_and_release('win+e')
+sleep(1)
+press_and_release('alt+d')
+sleep(0.10)
+write(f'ftp://{add}:2221/')
+sleep(0.10)
+press_and_release('enter')
+print(Fore.BLUE+'succesfully open ftp server')
+sys.exit()
