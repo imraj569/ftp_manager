@@ -60,9 +60,5 @@ Contributions are welcome! If you have any improvements or bug fixes, please sub
 ## Contact
 
 If you have any questions, suggestions, or feedback, feel free to reach out to me at.
-<p align="left">
-<a href="https://twitter.com/imraj569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imraj569" height="30" width="40" /></a>
-<a href="https://fb.com/im.raj.569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="im.raj.569" height="30" width="40" /></a>
-<a href="https://instagram.com/im.raj.569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.raj.569" height="30" width="40" /></a>
-</p>
+[Instagram](https://instagram.com/im.raj.569) [Twitter](https://twitter.com/imraj569) [Facebook](https://fb.com/im.raj.569)
 Happy file transferring!
