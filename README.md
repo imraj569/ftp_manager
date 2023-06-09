@@ -12,7 +12,7 @@ FTP Manager is a Python tool designed to facilitate the connection between mobil
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - pip
 
 ## Installation
