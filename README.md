@@ -57,8 +57,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! If you have any improvements or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss your ideas or changes.
 
-## Contact
+### Contact Me
 
-If you have any questions, suggestions, or feedback, feel free to reach out to me at.
-[Instagram](https://instagram.com/im.raj.569) [Twitter](https://twitter.com/imraj569) [Facebook](https://fb.com/im.raj.569)
+[<img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5293-facebook_102565.png" width="25px">](https://fb.com/im.raj.569)
+[<img src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" width="25px">](https://twitter.com/imraj569)
+[<img src="https://cdn.icon-icons.com/icons2/1183/PNG/512/1490133459-social-icons04_82211.png" width="25px">](https://instagram.com/im.raj.569)
+
+Feel free to reach out to me through any of the platforms above. I'm always happy to connect and engage with fellow developers!
+
 Happy file transferring!
