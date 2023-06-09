@@ -31,7 +31,7 @@ FTP Manager is a Python tool designed to facilitate the connection between mobil
 
 ## Usage
 
-1. Ensure that both your mobile phone and computer are connected to the same network by just download any ftp server app on play store and make sure change the port to 2221.
+1. Ensure that both your mobile phone and computer are connected to the same network by just download any ftp server app on play store recommendation - [FTP Tool](https://play.google.com/store/apps/details?id=com.litesapp.ftp) and make sure change the port to 2221.
 
 2. Launch the FTP Manager tool:
 
@@ -59,6 +59,10 @@ Contributions are welcome! If you have any improvements or bug fixes, please sub
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to me at [instagram](https://instagram.com/im.raj.569?igshid=ZGUzMzM3NWJiOQ==).
-
+If you have any questions, suggestions, or feedback, feel free to reach out to me at.
+<p align="left">
+<a href="https://twitter.com/imraj569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imraj569" height="30" width="40" /></a>
+<a href="https://fb.com/im.raj.569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="im.raj.569" height="30" width="40" /></a>
+<a href="https://instagram.com/im.raj.569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.raj.569" height="30" width="40" /></a>
+</p>
 Happy file transferring!
