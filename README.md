@@ -38,9 +38,16 @@ FTP Manager is a Python tool designed to facilitate the connection between mobil
    ```bash
    $ python ftp_manager.py
    ```
-  or just dubble click on `ftp_manager.py` it will automatically open files and folder of your phone you can easily access them now.
-## Screenshot 
+  or just dubble click on `ftp_manager.py` it will automatically open files and folder of your phone you can easily access them now. for use in GUI Mode run `ftp_manager_GUI.py` 
+  
+## Screenshot
+CLI mode:
+
 <img width="650" alt="d-search" src="https://github.com/imraj569/ftpmanager/assets/53007802/12cb80af-3c6e-4459-9767-8bff7ade256e">
+
+GUI mode:
+
+<img width="650" alt="d-search" src="https://user-images.githubusercontent.com/53007802/159110340-7a3bf24d-4419-46ee-9dd7-96b8b5b4b800.jpg">
 
 ## License
 
